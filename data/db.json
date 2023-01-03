@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "My second blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 3,
+      "title": "My third blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 4,
+      "title": "My fourth blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 5,
+      "title": "My fifth blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 6,
+      "title": "My sixth blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 7,
+      "title": "My seventh blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    },
+    {
+      "id": 8,
+      "title": "My eighth blog",
+      "author": "ds",
+      "body": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+    }
+  ]
+}
